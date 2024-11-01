@@ -38,7 +38,7 @@ packages:
       - packages/tion_enable_antifreeze.yaml
       ## Common configuration settings. Do not comment or move or remove!
       - packages/base.yaml
-      ## Change to esp32_s3.yaml/esp32_c3.yaml to use with ESP32-S3/ESP32-C3 chip.
+      ## Change to esp32_ble_s3.yaml/esp32_ble_c3.yaml to use with ESP32-S3/ESP32-C3 chip.
       - packages/esp32_ble.yaml
       ## Persistent connection runtime control switch.
       # - packages/persistent.yaml
